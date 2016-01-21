@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Wed Dec 16 12:00:33 : INSERT INTO `users` (`id`,`name`,`mail`,`password`) VALUES (NULL,'TESTUPDATEORM', 'TESTUPDATEORM@supinternet.fr', '5cec175b165e3d5e62c9e13ce848ef6feac81bff')
+-------------------------------------------------------------------------------
+Fri Jan 15 9:54:47 : INSERT INTO `users` (`id`,`name`,`mail`,`password`) VALUES (NULL,'Raphael', 'raphael.sanchez@supinternet.fr', '5cec175b165e3d5e62c9e13ce848ef6feac81bff')
